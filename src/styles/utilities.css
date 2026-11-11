@@ -1,0 +1,16 @@
+.section{
+    padding:120px 0;
+}
+
+.text-gradient{
+
+background:linear-gradient(
+90deg,
+#3B82F6,
+#38BDF8
+);
+
+-webkit-background-clip:text;
+-webkit-text-fill-color:transparent;
+
+}
